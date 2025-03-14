@@ -11,10 +11,10 @@ Below is a detailed **project roadmap** for your Tennis Tracker application, bro
 1. **Week 1:**
    - **Define Requirements:** Finalize user stories, acceptance criteria, and technical specifications. (done)
    - **Set Up Tools:**
-     - Initialize Git repository.
-     - Set up GitHub/GitLab for version control.
-     - Configure CI/CD pipeline (optional).
-   - **Create Project Structure:** Organize directories for frontend and backend as outlined in the project structure. (done)
+     - (done) Initialize Git repository.
+     - (done) Set up GitHub/GitLab for version control.
+     - (done) Configure CI/CD pipeline (optional).
+   - **Create Project Structure:** (done) Organize directories for frontend and backend as outlined in the project structure.
 
 2. **Week 2:**
    - **Environment Setup:**
