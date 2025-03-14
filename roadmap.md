@@ -9,21 +9,24 @@ Below is a detailed **project roadmap** for your Tennis Tracker application, bro
 **Objective:** Lay the foundation for the project by setting up the environment, tools, and initial structure.
 
 1. **Week 1:**
-   - **Define Requirements:** Finalize user stories, acceptance criteria, and technical specifications. (done)
+   - **Define Requirements:** 
+     - [x]Finalize user stories, acceptance criteria, and technical specifications. 
    - **Set Up Tools:**
-     - (done) Initialize Git repository.
-     - (done) Set up GitHub/GitLab for version control.
-     - (done) Configure CI/CD pipeline (optional).
-   - **Create Project Structure:** (done) Organize directories for frontend and backend as outlined in the project structure.
+     - [x] Initialize Git repository.
+     - [x] Set up GitHub/GitLab for version control.
+     - [x] Configure CI/CD pipeline (optional).
+   - **Create Project Structure:** 
+     - Organize directories for frontend and backend as outlined in the project structure.
 
 2. **Week 2:**
    - **Environment Setup:**
-     - (done) Install Node.js, npm, Go, and PostgreSQL locally.
-     - (done) Configure `.env` files for both frontend and backend.
+     - [ ] Install Node.js, npm, Go, and PostgreSQL locally.
+     - [ ] Configure `.env` files for both frontend and backend.
    - **Database Design:**
-     - Create an initial schema for users, matches, and stats.
-     - Write migration scripts for PostgreSQL.
-   - **Documentation:** (done) Draft the `README.md` and finalize `.gitignore` files.
+     - [ ] Create an initial schema for users, matches, and stats.
+     - [ ] Write migration scripts for PostgreSQL.
+   - **Documentation:** 
+     - [x] Draft the `README.md` and finalize `.gitignore` files.
 
 ---
 
@@ -33,26 +36,26 @@ Below is a detailed **project roadmap** for your Tennis Tracker application, bro
 
 1. **Week 3-4: Authentication and User Management**
    - **Backend:**
-     - Implement user registration and login APIs using JWT for authentication.
-     - Create database models for users.
+     - [ ] Implement user registration and login APIs using JWT for authentication.
+     - [ ] Create database models for users.
    - **Frontend:**
-     - Build login and registration forms.
-     - Test integration between frontend and backend.
+     - [ ] Build login and registration forms.
+     - [ ] Test integration between frontend and backend.
 
 2. **Week 5-6: Match Tracking**
    - **Backend:**
-     - Develop APIs for creating matches and logging stats (unforced errors, points won).
-     - Store match data in PostgreSQL.
+     - [ ] Develop APIs for creating matches and logging stats (unforced errors, points won).
+     - [ ] Store match data in PostgreSQL.
    - **Frontend:**
-     - Create forms for entering match details and stats.
-     - Add screens for singles and doubles matches.
+     - [ ] Create forms for entering match details and stats.
+     - [ ] Add screens for singles and doubles matches.
 
 3. **Week 7-8: Analytics**
    - **Backend:**
-     - Develop APIs to fetch historical match data and calculate performance trends.
+     - [ ] Develop APIs to fetch historical match data and calculate performance trends.
    - **Frontend:**
-     - Build a dashboard to display visualizations (e.g., line charts for unforced errors, bar charts for points won).
-     - Use Chart.js or Recharts for rendering charts.
+     - [ ] Build a dashboard to display visualizations (e.g., line charts for unforced errors, bar charts for points won).
+     - [ ] Use Chart.js or Recharts for rendering charts.
 
 ---
 
@@ -62,18 +65,18 @@ Below is a detailed **project roadmap** for your Tennis Tracker application, bro
 
 1. **Week 9-10: Sharing Stats**
    - **Backend:**
-     - Add API endpoints for exporting stats (PDF, CSV).
-     - Allow users to share stats via links.
+     - [ ] Add API endpoints for exporting stats (PDF, CSV).
+     - [ ] Allow users to share stats via links.
    - **Frontend:**
-     - Build UI for generating and downloading reports.
-     - Add options to share stats with coaches or teammates.
+     - [ ] Build UI for generating and downloading reports.
+     - [ ] Add options to share stats with coaches or teammates.
 
 2. **Week 11-12: Leaderboards and Comparisons**
    - **Backend:**
-     - Implement APIs for ranking players based on performance metrics.
+     - [ ] Implement APIs for ranking players based on performance metrics.
    - **Frontend:**
-     - Create leaderboards showing top performers.
-     - Add functionality to compare stats with friends or teammates.
+     - [ ] Create leaderboards showing top performers.
+     - [ ] Add functionality to compare stats with friends or teammates.
 
 ---
 
