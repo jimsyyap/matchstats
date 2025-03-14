@@ -1,6 +1,0 @@
-# React App Configuration
-REACT_APP_API_URL=http://localhost:8080
-REACT_APP_ENV=development
-
-# Optional: Analytics or Social Features
-REACT_APP_GOOGLE_CLIENT_ID=your-google-client-id
