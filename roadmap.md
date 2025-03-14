@@ -16,15 +16,15 @@ Below is a detailed **project roadmap** for your Tennis Tracker application, bro
      - [x] Set up GitHub/GitLab for version control.
      - [x] Configure CI/CD pipeline (optional).
    - **Create Project Structure:** 
-     - Organize directories for frontend and backend as outlined in the project structure.
+     - [x] Organize directories for frontend and backend as outlined in the project structure.
 
 2. **Week 2:**
    - **Environment Setup:**
-     - [ ] Install Node.js, npm, Go, and PostgreSQL locally.
-     - [ ] Configure `.env` files for both frontend and backend.
+     - [x] Install Node.js, npm, Go, and PostgreSQL locally.
+     - [x] Configure `.env` files for both frontend and backend.
    - **Database Design:**
-     - [ ] Create an initial schema for users, matches, and stats.
-     - [ ] Write migration scripts for PostgreSQL.
+     - [x] Create an initial schema for users, matches, and stats.
+     - [x] Write migration scripts for PostgreSQL.
    - **Documentation:** 
      - [x] Draft the `README.md` and finalize `.gitignore` files.
 
