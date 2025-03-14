@@ -82,14 +82,14 @@ Below is a detailed **project roadmap** for your Tennis Tracker application, bro
 **Objective:** Ensure the app is stable, secure, and ready for production use.
 
 1. **Week 13: Testing**
-   [ ] Conduct unit testing for backend APIs.
-   [ ] Perform end-to-end testing for frontend workflows.
-   [ ] Fix bugs and optimize performance.
+   - [ ] Conduct unit testing for backend APIs.
+   - [ ] Perform end-to-end testing for frontend workflows.
+   - [ ] Fix bugs and optimize performance.
 
 2. **Week 14: Deployment**
-   [ ] Deploy the backend to a cloud platform (e.g., AWS, DigitalOcean, or Heroku).
-   [ ] Host the frontend on a CDN (e.g., Netlify, Vercel).
-   [ ] Set up monitoring tools (e.g., Sentry, New Relic) for error tracking.
+   - [ ] Deploy the backend to a cloud platform (e.g., AWS, DigitalOcean, or Heroku).
+   - [ ] Host the frontend on a CDN (e.g., Netlify, Vercel).
+   - [ ] Set up monitoring tools (e.g., Sentry, New Relic) for error tracking.
 
 ---
 
